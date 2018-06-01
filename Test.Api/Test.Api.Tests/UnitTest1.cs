@@ -10,5 +10,11 @@ namespace Test.Api.Tests
         {
             Assert.IsTrue(true);
         }
+
+        [TestMethod]
+        public void TestMethod2()
+        {
+            Assert.IsTrue(false);
+        }
     }
 }
